@@ -1,4 +1,4 @@
-Hi 👋, For many years, I have squeezed my programming into any free time.
+Hi 👋, For many years, I have squeezed my programming into any free time. A lazy developer 😴 I code more to write less code.
 
 * working on numerous javascript-based projects at the moment with a variety of frameworks, especially Angular
 * Learning Python and more technologies
