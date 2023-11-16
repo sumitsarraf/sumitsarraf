@@ -35,12 +35,12 @@ Hi 👋, I'm Sumit! Yet another web developer from Bangalore. For many years, I 
 ### * Databases:
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=plastic&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=plastic&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=plastic&logo=sqlite&logoColor=white)
 
 ### * Cloud:
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=plastic&logo=google-cloud&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=plastic&logo=firebase&logoColor=black)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=plastic&logo=heroku&logoColor=white)
+![vercel](https://img.shields.io/badge/Vercel-430098%3Fstyle%3Dplastic%26logo%3Dheroku%26logoColor%3Dwhite
+)
 
 ### * IDEs
 
