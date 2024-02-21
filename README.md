@@ -1,4 +1,4 @@
-Hi 👋, I'm Sumit! Yet another web developer from Bangalore. For many years, I have squeezed my programming into any free time. A lazy developer 😴 I code more to write less code.
+Hi 👋, I'm Sumit! Yet another web developer from Bangalore. From long time, I have squeezed my programming into any free time. A lazy developer 😴 I code more to write less code.
 
 * working on numerous javascript-based projects at the moment with a variety of frameworks, especially Angular
 * Learning Python and more technologies
