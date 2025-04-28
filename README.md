@@ -5,7 +5,7 @@ Hi 👋, I'm Sumit! Yet another web developer from Bangalore. From long time, I 
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-sumit-ranjan/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white&link=mailto:gomezbateman@gmail.com)](mailto:sumitsarroff@gmail.com)
-[![portfolio](https://img.shields.io/badge/Personal_Portfolio-231F20?style=plastic&logo=buffer&logoColor=white)](https://http://sumitranjan.org/)
+[![portfolio](https://img.shields.io/badge/Personal_Portfolio-231F20?style=plastic&logo=buffer&logoColor=white)](https://sumitranjan.co.in/)
 
 ### * Languages
 
